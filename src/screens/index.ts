@@ -1,0 +1,5 @@
+export * from './SplashScreen'
+export * from './LoginScreen'
+export*from'./Ragisterscreen'
+export*from './HomeScreen'
+export*from './DetailScreen'
