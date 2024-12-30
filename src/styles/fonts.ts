@@ -1,4 +1,4 @@
 export const Fonts = {
-    regular : "Urbanist-Black"
+    regular : "Urbanist-Bold"
 }
 

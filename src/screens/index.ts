@@ -1,5 +1,13 @@
-export * from './SplashScreen'
-export * from './LoginScreen'
-export*from'./Ragisterscreen'
-export*from './HomeScreen'
-export*from './DetailScreen'
+export * from './SplashScreen';
+export * from './Login&Ragister/LoginScreen';
+export * from './Login&Ragister/Ragisterscreen';
+export * from './Login&Ragister/Terms';
+export * from './BottomNav/HomeScreen';
+export * from './DetailScreen';
+export * from './Bottom';
+export * from './BottomNav/Offers';
+export * from './BottomNav/Rewards';
+export * from './BottomNav/Profile';
+export * from './User/Changepass';
+export * from './User/Editprofile';
+export * from './User/Logout';
